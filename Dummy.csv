@@ -1,0 +1,16 @@
+auc,fold,log_loss,method,skill
+0.5,0,0.692233411877,Dummy,High
+0.5,1,0.692206122808,Dummy,High
+0.5,2,0.692228391626,Dummy,High
+0.5,3,0.692230672598,Dummy,High
+0.5,4,0.692249436946,Dummy,High
+0.5,0,0.692382765365,Dummy,Very_High
+0.5,1,0.69229294786,Dummy,Very_High
+0.5,2,0.692437343723,Dummy,Very_High
+0.5,3,0.692262566774,Dummy,Very_High
+0.5,4,0.692320730757,Dummy,Very_High
+0.5,0,0.690307112171,Dummy,Normal
+0.5,1,0.690323558652,Dummy,Normal
+0.5,2,0.690310791858,Dummy,Normal
+0.5,3,0.690371333093,Dummy,Normal
+0.5,4,0.690287999761,Dummy,Normal
